@@ -6,3 +6,5 @@ class Solution(object):
         :type upper: int
         :rtype: int
         """
+        def sss():
+            pass
