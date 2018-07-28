@@ -1,4 +1,7 @@
 class NumArray(object):
+    '''
+    Use dp list to decrease time complexity of sumRange()
+    '''
 
     def __init__(self, nums):
         """
